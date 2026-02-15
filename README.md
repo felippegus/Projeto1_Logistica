@@ -61,7 +61,7 @@ projeto-logistica-gullas/
 ├── notebooks/
 │   └── analise_completa.ipynb        # Notebook interativo
 ├── docs/
-│   └── Projeto_1_Completo_Final.pdf  # Relatório técnico
+│   └── relatorio_FINAL_felippe_211027062-LOGISTICA.pdf  # Relatório técnico
 └── requirements.txt                  # Dependências Python
 ```
 
