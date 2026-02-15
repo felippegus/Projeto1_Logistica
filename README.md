@@ -48,8 +48,7 @@ Desenvolver um sistema de apoio à decisão para a gestão de estoques de ingred
 projeto-logistica-gullas/
 ├── README.md                          # Este arquivo
 ├── data/
-│   ├── vendas_restaurante.xlsx       # Dados brutos de vendas
-│   └── dados_simulacao.xlsx          # Dados da simulação
+│   ├── 1-2023 ATUALIZADA.xlsx       # Dados brutos de vendas
 ├── src/
 │   ├── projeto_etapa2_monte_carlo.py # Simulação principal
 │   ├── analise_cenarios_etapa2.py    # Análise de cenários
